@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisgustavo876&show_icons=true&locale=en&theme=dracula&layout=compact" alt="luisgustavo876" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgustavo876&show_icons=true&locale=en&theme=dracula" alt="luisgustavo876" /></p>
+
+![Snake animation](luisgustavo876)
