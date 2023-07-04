@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgustavo876&show_icons=true&locale=en&theme=dracula" alt="luisgustavo876" /></p>
 
-![Snake animation] github_user_name: luisgustavo876
+![Snake animation](luisgustavo876)
