@@ -20,6 +20,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgustavo876&show_icons=true&locale=en&theme=dracula" alt="luisgustavo876" /></p>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align =center>
+  
+  <img src="https://raw.githubusercontent.com/luisgustavo876/luisgustavo876/output/snake.svg" alt="Snake animation" />
 
-Snake.yml:
+</div>
+
+
+
+
